@@ -1,7 +1,7 @@
 # subdomainFinder
 
 
-gitclone https://github.com/Logic232/subdomainFinder
+git clone https://github.com/Logic232/subdomainFinder
 
 cd subdomainFinder
 
