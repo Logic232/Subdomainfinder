@@ -70,8 +70,7 @@ class Main():
 ██║░░░░░██║██║░╚███║██████╔╝███████╗██║░░██║
 ╚═╝░░░░░╚═╝╚═╝░░╚══╝╚═════╝░╚══════╝╚═╝░░╚═╝
 
-creator:Logic232
-Don't forget to use Sqli scanner by Anontemitayo to check if the subdomains are vulnerable
+creator:Logic232 and Dark-Knight
 			''',"blue")
 
 	
